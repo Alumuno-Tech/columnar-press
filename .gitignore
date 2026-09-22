@@ -1,0 +1,18 @@
+# Secrets — NEVER commit
+data/solana_id_backup.json
+*.json.key
+id.json
+
+# Runtime state — vault guts, not for judges
+data/checkpoints/
+data/snapshots/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Backup ritual files
+*.bak_*
+*.save
+.DS_Store
+.venv/

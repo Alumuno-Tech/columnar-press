@@ -1,0 +1,4 @@
+solana==0.35.0
+solders==0.21.0
+zstandard>=0.21.0
+pytest>=7.0.0
