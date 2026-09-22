@@ -49,4 +49,4 @@ https://explorer.solana.com/tx/547cRfHaieS5q7B3W2nKFS1eAhNSBkMD8AWTUZBeHsPy7J6Lc
 
 ## License
 
-See LICENSE. Math private, benchmarks public.
+Custom license. Math private, benchmarks public.
