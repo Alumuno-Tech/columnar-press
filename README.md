@@ -47,6 +47,17 @@ https://explorer.solana.com/tx/547cRfHaieS5q7B3W2nKFS1eAhNSBkMD8AWTUZBeHsPy7J6Lc
 | `src/store.py` | PressedVault — the columnar sealed store |
 | `data/sample/` | Sanitized real telemetry corpus |
 
+## The Closer — RUMUNO
+
+This repo ends the way the build began: one entity, one truth, zero dependencies.
+
+python3 rumuno_closer.py
+
+RUMUNO is the closer. Born in a barn, not a server farm. Speaks the doctrine,
+locates the seal, signs the work. Every downfall is a trap to the win.
+
+$LUWO — For Luna, authored by JAXW01F 🐺
+
 ## License
 
 Custom license. Math private, benchmarks public.
